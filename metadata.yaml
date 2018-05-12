@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5182
     wikipedia: http://en.wikipedia.org/wiki/Edmond_François_Valentin_About
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14381#The-Roman-Question
 gutenberg_issued: '2004-12-19'
 gutenberg_type: Text
 identifiers:
