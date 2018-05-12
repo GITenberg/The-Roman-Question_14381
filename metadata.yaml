@@ -1,0 +1,43 @@
+_repo: The-Roman-Question_14381
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Coape, Henry C. (Henry Coe)
+    aliases:
+    - Coape, Henry Coe
+    - Merriton, Mervyn
+    gutenberg_agent_id: '39495'
+    url: http://www.gutenberg.org/2009/agents/39495
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: About, Edmond
+    aliases:
+    - Avout, Edmondos
+    - About, Edmond François Valentin
+    - About, E. (Edmond)
+    - Abu, Edmond
+    - Ampou, Edmondos
+    - About, Edmond Francois Valentin
+    birthdate: 1828
+    deathdate: 1885
+    gutenberg_agent_id: '5182'
+    url: http://www.gutenberg.org/2009/agents/5182
+    wikipedia: http://en.wikipedia.org/wiki/Edmond_François_Valentin_About
+description: ''
+gutenberg_issued: '2004-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14381'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Roman question'
+- !lcsh 'Popes -- Temporal power'
+title: The Roman Question
+url: http://www.gutenberg.org/ebooks/14381
